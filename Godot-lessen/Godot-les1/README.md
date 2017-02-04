@@ -34,7 +34,18 @@ Een RigidBody2d is een Object die automatisch zwaartekracht heeft.
 Noem de RigidBody "Blok"
 
 Klik nu op Blok en daarna op plusje en zoek naar sprite.
+Een sprite is een plaatje voor je Blok.
 
 ![godot-editor5](godot-editor5.png)
 
 Klik nu op Create.
+
+Klik weer op het plusje en zoek daarna naar collisionshape2d.
+Dat is hetgene waarmee het andere Object mee botst.
+
+![godot-editor6](godot-editor6.png)
+
+Nu zie je rechtsonder een menu als je op collisoinshape klikt.
+Hierin zie je dit.
+
+![godot-editor7](godot-editor7.png)
