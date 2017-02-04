@@ -11,6 +11,6 @@ Als je Godot opent ziet het er ongeveer zo uit.
 
 ![Godot](screenshots/godot-menu.png "Description goes here")
 
-Nu je hier bent wil je een nieuw project maken, dat doe je door op "New Project" te klikken.
+Nu je hier bent wil je een nieuw project maken, dat doe je door rechtsboven op "New Project" te klikken.
 
 ![Godot](screenshots/godot-menu2.png "Description goes here")
