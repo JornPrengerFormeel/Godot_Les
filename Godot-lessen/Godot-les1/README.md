@@ -13,4 +13,5 @@ Dat doen we in 2d mode. Om 2d mode in te schakelen meot je linksboven op 2d klik
 
 Nu moeten we een wereld hiervoor maken.
 Hiervoor klik je op het plusje. 
+
 ![godot-editor2](godot-editor2.png)
