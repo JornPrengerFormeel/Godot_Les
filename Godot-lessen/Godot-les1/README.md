@@ -15,3 +15,20 @@ Nu moeten we een wereld hiervoor maken.
 Hiervoor klik je op het plusje. 
 
 ![godot-editor2](godot-editor2.png)
+
+Nu moet je zoeken naar "Node 2d"
+
+![godot-editor3](godot-editor3.png)
+
+Klik erop en klik daarna op "Create".
+Nu staat je Node 2d in je scene.
+Je kunt hem anders noemen door er op te klikken en dan te gaan typen.
+Noem de Node 2d "Wereld"
+
+Selecteer nu Wereld en klik weer op het plusje.
+Zoek nu "RigidBody2d".
+Een RigidBody2d is een Object die automatisch zwaartekracht heeft.
+
+![godot-editor4](godot-editor4.png)
+
+Noem de RigidBody "Blok"
