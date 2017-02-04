@@ -8,4 +8,4 @@ Als je dat nog niet gedaan hebt ga dan naar https://github.com/jorn600/Godot-les
 In les 1 gaan we een rollend blokje maken.
 
 Dat doen we in 2d mode. Om 2d mode in te schakelen meot je linksboven op 2d klikken.
-![Godot](screenshots/godot-editor2.png"text")
+![Godot](screenshots/godot-editor.png"text")
