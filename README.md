@@ -8,3 +8,4 @@ Je kunt Godot downloaden op godotengine.org Je klikt eerst op de download | 2.1 
 Wat we in Godot gaan doen is een speletje maken waarin je kunt lopen, springen, rennen en mischien ook schieten.
 
 Als je Godot opent ziet het er zo uit.
+![Godot](screenshots/godot-menu.png "Description goes here")
