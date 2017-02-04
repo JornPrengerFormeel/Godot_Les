@@ -5,7 +5,7 @@ Je bent nu binnen in Godot.
 
 Als je dat nog niet gedaan hebt ga dan naar https://github.com/jorn600/Godot-lessen/blob/master/README.md.
 
-In les 1 gaan we een rollend blokje maken.
+In les 1 gaan we een vallend blokje maken.
 
 Dat doen we in 2d mode. Om 2d mode in te schakelen meot je linksboven op 2d klikken.
 
@@ -49,3 +49,32 @@ Nu zie je rechtsonder een menu als je op collisoinshape klikt.
 Hierin zie je dit.
 
 ![godot-editor7](godot-editor7.png)
+
+klik nu op "Null".
+en daarna op "new rectangle shape". 
+
+Nu klik je op sprite.
+En dan op texture.
+
+![godot-editor8](godot-editor8.png)
+
+Nu load je het robot plaatje.
+Scroll hier naar onderen totdat je "scale" ziet staan.
+
+![godot-editor9](godot-editor9.png)
+
+Verander de scale van 1,1 naar 0.3,0,3.
+Selecteer nu Blok en klik boven op dit knopje
+
+![godot-editor10](godot-editor10.png)
+
+Nu kun je boven op het driehokje klikken.
+Er staat nu dat je een "main scene" meot selecteren.
+Klik gewoon de hele tijd op oke.
+
+Als je er nu weer op klikt klik dan gewoon verder.
+
+Klik er nu nog een keer open en er opent een window.
+Dit is je game!
+
+(:
