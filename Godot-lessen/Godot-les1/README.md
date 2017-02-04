@@ -10,3 +10,7 @@ In les 1 gaan we een rollend blokje maken.
 Dat doen we in 2d mode. Om 2d mode in te schakelen meot je linksboven op 2d klikken.
 
 ![godot-editor1](godot-editor.png)
+
+Nu moeten we een wereld hiervoor maken.
+Hiervoor klik je op het plusje. 
+![godot-editor2](godot-editor2.png)
