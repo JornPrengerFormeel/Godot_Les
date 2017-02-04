@@ -27,4 +27,5 @@ Als het good is komt dan dit scherm te voorschijn.
 ![Godot](screenshots/godot-editor.png "Description goes here")
 
 Nu ben je binnen in Godot!
+
 Hoera!
