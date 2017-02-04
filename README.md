@@ -14,3 +14,17 @@ Als je Godot opent ziet het er ongeveer zo uit.
 Nu je hier bent wil je een nieuw project maken, dat doe je door rechtsboven op "New Project" te klikken.
 
 ![Godot](screenshots/godot-menu2.png "Description goes here")
+
+Als je daarop klikt komt er een window te voorschijn, hierin sla je je project op.
+
+![Godot](screenshots/godot-menu3.png "Description goes here")
+
+Zorg voor een goede plek voor je project waar je hem altijd terug zal vinden! Zoals je bureaublad.
+Nu geef je je project een naam en klik je op oke.
+
+Als het good is komt dan dit scherm te voorschijn.
+
+![Godot](screenshots/godot-editor.png "Description goes here")
+
+Nu ben je binnen in Godot!
+Hoera!
