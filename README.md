@@ -20,7 +20,7 @@ Als je daarop klikt komt er een window te voorschijn, hierin sla je je project o
 ![Godot](screenshots/godot-menu3.png "Description goes here")
 
 Zorg voor een goede plek voor je project waar je hem altijd terug zal vinden! Zoals je bureaublad.
-Nu geef je je project een naam en klik je op oke.
+Nu geef je je project een naam en klik je op Create.
 
 Als het good is komt dan dit scherm te voorschijn.
 
