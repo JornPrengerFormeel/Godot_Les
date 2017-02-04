@@ -32,3 +32,9 @@ Een RigidBody2d is een Object die automatisch zwaartekracht heeft.
 ![godot-editor4](godot-editor4.png)
 
 Noem de RigidBody "Blok"
+
+Klik nu op Blok en daarna op plusje en zoek naar sprite.
+
+![godot-editor4](godot-editor4.png)
+
+Klik nu op Create.
