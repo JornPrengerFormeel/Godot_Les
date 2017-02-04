@@ -35,6 +35,6 @@ Noem de RigidBody "Blok"
 
 Klik nu op Blok en daarna op plusje en zoek naar sprite.
 
-![godot-editor4](godot-editor4.png)
+![godot-editor5](godot-editor5.png)
 
 Klik nu op Create.
