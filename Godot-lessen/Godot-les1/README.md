@@ -69,10 +69,11 @@ Selecteer nu Blok en klik boven op dit knopje
 ![godot-editor10](godot-editor10.png)
 
 Nu kun je boven op het driehokje klikken.
-Er staat nu dat je een "main scene" meot selecteren.
-Klik gewoon de hele tijd op oke.
+Er staat nu dat je een "main scene" moet selecteren.
+Klik hier op oke.
 
-Als je er nu weer op klikt klik dan gewoon verder.
+Als je er nu weer op klikt komt er weer een scherm te voorschijn.
+Klik hier op "save" of "oke".
 
 Klik er nu nog een keer open en er opent een window.
 Dit is je game!
