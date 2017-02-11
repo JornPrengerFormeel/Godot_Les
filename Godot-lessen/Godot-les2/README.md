@@ -13,6 +13,8 @@ Zoek nu kinematicbody2d op.
 Selecteer die en klik nu op create.
 
 Deze moet ook een sprite hebben.
-Geef deze de zelfde sprite Als je ground. 
+Geef deze de zelfde sprite Als je ground.
+Geef deze ook een collisionshape2d.
 
-Je kunt de ground wat breder maken.
+Nu kun je de ground wat breder maken.
+Nu start je het programma.
