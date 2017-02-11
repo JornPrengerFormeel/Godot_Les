@@ -8,6 +8,8 @@ Dit gaan we doen in les 2.
 Hiervoor moeten we een ander blok maken.
 Een kinematicbody2d.
 
+![godot-1](godot-1.png)
+
 Die maak je aan door wereld te selecteren en op plusje te klikken.
 Zoek nu kinematicbody2d op.
 Selecteer die en klik nu op create.
@@ -17,4 +19,9 @@ Geef deze dezelfde sprite als je ground.
 Geef deze ook een collisionshape2d.
 
 Nu kun je de ground wat breder maken.
+
+![godot-3](godot-3.png)
+
+Het zou er ongeveer zo uit moeten zien
+
 Nu start je het programma.
