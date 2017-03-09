@@ -1,0 +1,5 @@
+les 3: buttons en labels
+les 4: sprites
+les 5: camera
+
+Godot-Scripting -> later
