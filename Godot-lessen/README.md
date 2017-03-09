@@ -78,44 +78,44 @@
 ```Klik nu nog een keer op het driehoekje.```
 ```Nu start je je game op.```
 
-```He? Er komt een scherm tevoorschijn zonder iets erin.```
-```Dit komt omdat je nooit een plaatje hebt gegeven aan je speler`
+He? Er komt een scherm tevoorschijn zonder iets erin.
+Dit komt omdat je nooit een plaatje hebt gegeven aan je speler
 
-```Doe dit door je rigidbody2d een "sprite" te geven.```
-```Hiervoor selecteer je RigidBody2d.```
-```Klik je op de rechtermuisknop.```
-```En daarna bovenaan op "add child node".```
+Doe dit door je rigidbody2d een "sprite" te geven.
+Hiervoor selecteer je RigidBody2d.
+Klik je op de rechtermuisknop.
+En daarna bovenaan op "add child node".
 
 ![godot-editor10](godot-editor10.png)
 
-```Nu komen alle Nodes weer tevoorschijn.```
-```Zoek nu naar "Sprite".```
+Nu komen alle Nodes weer tevoorschijn.
+Zoek nu naar "Sprite".
 
 ![godot-editor11](godot-editor11.png)
 
-```En klik op create.```
+En klik op create.
 
-```Nu zie je rechtsonder, dit staan.```
+Nu zie je rechtsonder, dit staan.
 
 ![godot-editor12](godot-editor12.png)
 
-```Klik daar op "null", en daarna op "load".```
+Klik daar op "null", en daarna op "load".
 
-```Klik nu op dit plaatje.```
+Klik nu op dit plaatje.
 
 ![godot-editor13](godot-editor13.png)
 
-```En klik daarna op "open".```
+En klik daarna op "open".
 
-```Nu heeft je speler een plaatje!```
-```Je kunt nu weer op het driehoekje klikken.```
-```Dan start je game(:```
+Nu heeft je speler een plaatje!
+Je kunt nu weer op het driehoekje klikken.
+Dan start je game(:
 
-```Je kunt je speler nu in het midden van het scherm krijgen door RigidBody2d te selecteren.```
-```En daarna op dit knopje te klikken:```
+Je kunt je speler nu in het midden van het scherm krijgen door RigidBody2d te selecteren.
+En daarna op dit knopje te klikken:
 
 ![godot-editor14](godot-editor14.png)
 
-```Goed!```
-```Je bent nu klaar met de eerste les.```
+Goed!
+Je bent nu klaar met de eerste les.
 
