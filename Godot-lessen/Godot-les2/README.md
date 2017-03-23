@@ -1,5 +1,5 @@
-#Godot les 2
-###Een stuiterend blokje
+Godot les 2
+Een stuiterend blokje
 
 Zoals je gezien hebt in les 1, heb je een collisionshape2d gemaakt.
 Dit botst met een andere collisionshape, maar hoe maken we die.
