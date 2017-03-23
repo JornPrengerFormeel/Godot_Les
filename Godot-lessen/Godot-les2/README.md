@@ -25,3 +25,21 @@ Nu kun je de ground wat breder maken.
 Het zou er ongeveer zo uit moeten zien
 
 Nu start je het programma.
+
+Om alles nu te laten stuiteren geef je de KinematicBody en Rigidbody een collisionshape2d.
+
+Ga nu naar rechtsonder en selecteer "null" en klik op "New Rectangle".
+
+En klik nu op het pijltje daarnaast.
+
+Vul nu bij Extents 32,32 in.
+
+Doe dit bij de kinematicbody2d en de rigidbody2d.
+
+Nu kun je je scene runnen.
+
+HuH?!
+
+Hij stuitert helemaal niet, dit doe je door naar je rigidbody te gaan en bounce op 1 zetten.
+
+Nu stuitert je blokje, jippie!
